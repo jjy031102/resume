@@ -57,7 +57,7 @@ export default {
       ]
     },
     {
-      name: 'TodoList 待办事项应用（尚硅谷实战）',
+      name: 'TodoList 待办事项应用',
       role: '课程实战项目',
       tech: 'Vue2 / Vue3 · Tailwind CSS',
       desc: '跟随尚硅谷教程实战开发的 TodoList 待办事项应用，深入练习 Vue 核心语法与组件化开发。',
